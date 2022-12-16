@@ -1,0 +1,43 @@
+boby{
+    background-color: pink;
+}
+.detail{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+carousel-inner{
+    width: 85%;
+    height: 100vh;
+    margin: 0 auto;
+
+}
+.container-fluid{
+
+}
+.card-body{
+
+}
+.row row-cols-1 row-cols-md-2 g-4{
+    
+}
+.col{
+    
+}
+.card{
+    
+}
+.san_pham{
+    width: 75%;
+    height: 100vh;
+    margin: 0 auto;
+    margin-top:30px ;
+}
+carousel-inner{
+
+}
+carousel-item active img{
+    width: 75%;
+    height: 100vh;
+}
